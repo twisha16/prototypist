@@ -3,10 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "create-react-class": "^15.6.3",
+    "less": "^3.0.4",
     "react": "^16.3.2",
     "react-dom": "^16.3.2"
   },
   "devDependencies": {
+    "less-loader": "^4.1.0",
     "react-scripts": "1.1.4"
   },
   "scripts": {
